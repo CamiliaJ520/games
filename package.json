@@ -1,0 +1,19 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "description": "like....",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiliaJ520/games.git"
+  },
+  "author": "Camilia Jiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamiliaJ520/games/issues"
+  },
+  "homepage": "https://github.com/CamiliaJ520/games#readme"
+}
